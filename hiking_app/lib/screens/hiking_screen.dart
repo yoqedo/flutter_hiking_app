@@ -107,6 +107,7 @@ class _HikingScreenState extends State<HikingScreen> {
                       ),
                       SizedBox(height: 20),
                       Container(
+                        margin: EdgeInsets.only(left: 30),
                         decoration: BoxDecoration(
                             color: Color.fromRGBO(23, 193, 255, 1),
                             borderRadius: BorderRadius.all(
